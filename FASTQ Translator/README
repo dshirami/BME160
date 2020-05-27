@@ -1,0 +1,5 @@
+FastQ Translator converts quality scores between
+three different FASTQ format file types:
+Sanger, SOLEXA, and Illumina
+
+
